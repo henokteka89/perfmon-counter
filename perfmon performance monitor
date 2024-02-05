@@ -1,0 +1,10 @@
+Use of perfmon
+1.	Type perfmon or performance monitor on the vm
+ 
+2.	On the board where you see the red line, right click and click “Add Counter”
+ 
+3.	Add counter from the lists e.g. "logic disk" and select/deselect from the lists of counters. Then click “add” and “OK”
+ 
+NB: Lists are alphabetical
+
+ 
